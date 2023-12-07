@@ -1,6 +1,11 @@
-# pong
+<h1 align="center">
+PONG
+</h1>
+
 
 - Welcome to the JavaScript Pong Game repository! This is a simple implementation of the classic Pong game using JavaScript. You can play the game by following the instructions below.
+
+<br />
 
 <p align="center">
 <img width="697" alt="Screenshot 2023-12-07 at 1 17 12 AM" src="https://github.com/chihtengma/pong/assets/117555908/7490c934-c357-47ff-b9d0-476deedb9075">  
@@ -18,22 +23,20 @@
 ```bash
 git clone https://github.com/your-username/javascript-pong-game.git
 ```
-
+<br />
 
 2. Navigate to the project directory:
-
-
 
 ```bash
 cd javascript-pong-game
 ```
-
+<br />
 
 3. Install the dependencies:
 ```bash
 npm install
 ```
-
+<br />
 
 # Playing the Game
 - Once the installation is complete, you can start playing the game by running:
